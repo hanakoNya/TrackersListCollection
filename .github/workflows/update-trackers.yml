@@ -392,7 +392,3 @@ jobs:
 
           # 1) 推送到 GitHub（origin）
           git push origin "HEAD:${GITHUB_REF_NAME}"
-
-          # 2) 推送到 Bitbucket（镜像）
-          git remote add bitbucket "https://x-bitbucket-api-token-auth:${BITBUCKET_TOKEN}@bitbucket.org/xiu2/trackerslistcollection.git"
-          git push bitbucket "HEAD:${GITHUB_REF_NAME}"
