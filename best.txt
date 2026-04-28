@@ -2,8 +2,6 @@ http://1337.abcvg.info:80/announce
 
 http://bt1.archive.org:6969/announce
 
-http://bt2.archive.org:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -17,8 +15,6 @@ http://tracker.exe.in.th:6969/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker3.ctix.cn:8080/announce
 
@@ -86,10 +82,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://seedpeer.net:6969/announce
-
-udp://t.overflow.biz:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.004430.xyz:1337/announce
@@ -113,6 +105,8 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.hismz.cn:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.ixuexi.click:6969/announce
 
