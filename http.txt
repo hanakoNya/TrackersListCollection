@@ -46,13 +46,13 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.plx.im:6969/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.sbsub.com:2710/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -88,8 +88,6 @@ https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
@@ -101,8 +99,6 @@ https://tracker.7471.top:443/announce
 https://tracker.anibt.net:443/announce
 
 https://tracker.bt4g.com:443/announce
-
-https://tracker.bug38.com:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
