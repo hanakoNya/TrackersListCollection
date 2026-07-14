@@ -12,8 +12,6 @@ http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dhitechnical.com:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -49,6 +47,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.leechshield.link:443/announce
 
 https://tracker.manager.v6.navy:443/announce
+
+https://tracker.nekomi.cn:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
