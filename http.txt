@@ -16,19 +16,25 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt1.archive.org:6969/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
 http://bt2.archive.org:6969/announce
 
 http://buny.uk:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://lucke.fenesisu.moe:6969/announce
+
 http://ns3109441.mypdns.org:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://retracker.spark-rostov.ru:80/announce
+
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://seeders-paradise.org:80/announce
+http://share.hkg-fansub.info:80/announce.php
 
 http://t.overflow.biz:6969/announce
 
@@ -40,8 +46,6 @@ http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dhitechnical.com:6969/announce
@@ -49,6 +53,8 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.dmcomic.org:2710/announce
 
 http://tracker.lintk.me:2710/announce
 
@@ -58,7 +64,7 @@ http://tracker.nexusstream.eu:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
 
-http://tracker.plx.im:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -80,7 +86,7 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker2.dler.org:80/announce
 
-http://www.genesis-sp.org:2710/announce
+http://tracker810.xyz:11450/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -108,11 +114,7 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
 
@@ -127,8 +129,6 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
-
-https://tracker.manager.v6.navy:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
